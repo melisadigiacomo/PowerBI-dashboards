@@ -10,7 +10,7 @@ In this repo I share my PowerBI reports on different topics.
 
 This report analyzed Game of Thrones battles. The dataset was collected from [Chris Albon's "The War of the Five Kings"](https://github.com/chrisalbon/war_of_the_five_kings_dataset)
 
-![GoT_battles](./images/GoT_battles.png)
+https://user-images.githubusercontent.com/87764919/154495027-2d62c8cd-a6cb-4a33-9b2f-7185dbcfbe83.mp4
 
 I loved [@MSPowerBI](https://twitter.com/MSPowerBI) response, LOL!
 
