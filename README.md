@@ -46,8 +46,6 @@ LINK: [GoT dashboard](https://app.powerbi.com/groups/me/reports/4294451a-e4db-4a
 This report analyzed Game of Thrones battles. The dataset was collected from [Chris Albon's "The War of the Five Kings"](https://github.com/chrisalbon/war_of_the_five_kings_dataset).  
 The chord diagram shows the number of battles between houses. The attacking and defending houses are shown on the chords. The attacker kings, battle types and regions are also observed.
 
-![got](images/got.gif)
-
 I loved [@MSPowerBI](https://twitter.com/MSPowerBI) response, LOL!
 
 ![response](./images/PowerBI_response.jpg)
